@@ -1,0 +1,21 @@
+{"adult":false,"backdrop_path":"/i2GVEvltEu3BXn5crBSxgKuTaca.jpg","id":614479,"title":"Insidious: The Red Door","original_language":"en","original_title":"Insidious: The Red Door","overview":"To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.","poster_path":"/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg","media_type":"movie","genre_ids":[27,9648,53],"popularity":654.568,
+"release_date":"2023-07-05","video":false,"vote_average":6.0,"vote_count":279}
+
+
+{"adult":false,"backdrop_path":"/dWvDlTkt9VEGCDww6IzNRgm8fRQ.jpg","id":457332,"title":"Hidden Strike","original_language":"en","original_title":"Hidden Strike","overview":"Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.","poster_path":"/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg","media_type":"movie","genre_ids":[28,12,53],"popularity":575.144,"release_date":"2023-07-06","video":false,"vote_average":7.2,"vote_count":212},
+
+
+
+{"adult":false,"backdrop_path":"/lDCIQ1Qe7cRnhZ4ybQVVEbadMZ.jpg","id":1008042,"title":"Talk to Me","original_language":"en","original_title":"Talk to Me","overview":"When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.","poster_path":"/kdPMUMJzyYAc4roD52qavX0nLIC.jpg","media_type":"movie","genre_ids":[27,53],"popularity":440.378,"release_date":"2023-07-24","video":false,"vote_average":7.4,"vote_count":51}
+
+
+
+server side renderingnode js => express framework
+mongoDB => moongose module 
+Movies API => themoviedb.org
+Normal CSS and Some bootstarp
+For user convinient we hashed the password using bcrypt 
+User1 is exist {
+Likedmovies list, dislikedmovies list, 
+}
+EJS or Embedded Javascript Templating 
