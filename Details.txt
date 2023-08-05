@@ -1,0 +1,12 @@
+
+
+
+server side renderingnode js => express framework
+mongoDB => moongose module 
+Movies API => themoviedb.org
+Normal CSS and Some bootstarp
+For user convinient we hashed the password using bcrypt 
+User1 is exist {
+Likedmovies list, dislikedmovies list, 
+}
+EJS or Embedded Javascript Templating 
